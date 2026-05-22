@@ -1,5 +1,6 @@
 📊 Tableau Superstore Data Analysis Project
 This project presents an in-depth data analysis of the Sample Superstore dataset using Tableau with integration of TabPy (Python) for advanced analytics. The goal is to explore sales performance, profitability, customer behavior, and regional trends through interactive visualizations and dashboards.
+
 📁 Project Overview
 The analysis was conducted in Tableau and includes multiple stages:
 Data preparation and joining of Superstore tables (orders, customers, regions)
@@ -7,6 +8,7 @@ Data validation and checking of data types
 Creation of multiple visual sheets for analysis
 Development of interactive dashboards
 Integration with TabPy for correlation analysis using Python
+
 📊 Key Analyses Performed
 1. Data Overview
 Built a structured table including Order ID, Customer Name, Region, Category, Sales, and Profit
@@ -43,6 +45,7 @@ Combined multiple sheets into a single interactive dashboard
 Added filters for Region and Category
 Configured layout for desktop view (1000x800)
 Built an overview of total sales, profit, and top customers
+
 📈 Key Insights
 Technology category has the highest sales performance
 Standard shipping is the most frequently used delivery method
@@ -50,14 +53,18 @@ Sales and profit vary significantly across segments
 Strong regional concentration of profit in the United States
 Clear seasonal trends with recurring peaks during specific months
 Correlation between sales and profit varies from strong to weak depending on segment
+
 🛠 Tools Used
 Tableau Desktop
 TabPy (Python integration)
 Superstore dataset
+
 📷 Visualizations
 All dashboards, charts, and maps are included in the /images folder of this repository.
+
 📚 Reference
 Karbasi, G. (2024) Tableau & TabPy – Datenanalyse mit Python. SVA Focus.
 https://focus.sva.de/big-data-analytics/tableau-tabpy-datenanalyse-mit-python/
+
 🚀 Conclusion
 This project demonstrates how Tableau combined with Python integration can be used to transform raw data into meaningful business insights. The analysis highlights key performance drivers and supports data-driven decision-making.
